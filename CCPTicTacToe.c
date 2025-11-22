@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <ctype.h>
-#define size 9
+#define size 3
 
 char board[size][size];
 
@@ -443,4 +443,5 @@ int main() {
     
     return 0;
 }
+
 
